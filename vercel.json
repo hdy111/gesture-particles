@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "gesture-particle-interaction",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/index2.html" }
+  ]
+}
